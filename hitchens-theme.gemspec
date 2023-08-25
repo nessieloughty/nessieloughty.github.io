@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "hitchens-theme"
   spec.version       = "0.8.0"
-  spec.authors       = ["Pat Dryburgh"]
+  spec.authors       = ["Nessie Loughty"]
   spec.email         = ["hello@patdryburgh.com"]
 
-  spec.summary       = "An inarguably well-designed theme for Jekyll."
+  spec.summary       = ""
   spec.homepage      = "https://github.com/patdryburgh/hitchens"
   spec.license       = "MIT"
 
