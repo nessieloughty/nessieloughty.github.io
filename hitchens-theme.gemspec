@@ -4,10 +4,10 @@ Gem::Specification.new do |spec|
   spec.name          = "hitchens-theme"
   spec.version       = "0.8.0"
   spec.authors       = ["Nessie Loughty"]
-  spec.email         = ["hello@patdryburgh.com"]
+  spec.email         = [""]
 
   spec.summary       = ""
-  spec.homepage      = "https://github.com/patdryburgh/hitchens"
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
