@@ -1,5 +1,5 @@
 ---
-title: Dear Devoted
+title: Dear Devoted (coming soon!)
 author:
 category: literature
 layout: post
