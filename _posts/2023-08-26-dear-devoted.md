@@ -1,5 +1,5 @@
 ---
-title: Dear Devoted (coming soon!)
+title: Dear Devoted (coming September 23rd)
 author:
 category: literature
 layout: post
