@@ -17,7 +17,6 @@ title: Nessie Loughty
 email: leasilva91@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Dear Devoted, 
- Pre-order [here](https://www.amazon.com/dp/B0CJDPWJ4Y?nodl=1&ref_=pe_3052080_276849420&dplnkId=6de9a10f-a60c-43d1-a5e1-00048bc17498).
 #baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://nessieloughty.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/profile_pic.jpeg
