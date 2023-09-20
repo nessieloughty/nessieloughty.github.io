@@ -22,7 +22,7 @@ layout: default
   </header>
 {% endif %}
 
-<main class="home" id="main" role="main" aria-label="Content">
+<main class="home" id="main" role="main" aria-label="Books">
 
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
@@ -33,7 +33,7 @@ layout: default
   </h1>
 
   {% if site.paginate and site.paginate_path %}
-    
+
     <ul class="post-list">
       {% for post in paginator.posts %}
         {% include post-list-item.html %}
@@ -65,8 +65,8 @@ layout: default
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
-  
+
   {% endif %}
-    
+
 
 </main>
