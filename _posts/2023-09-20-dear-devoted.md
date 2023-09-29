@@ -13,5 +13,3 @@ After her break up with Lucian, Camila tries to forget him but she doesn’t see
 \
 \
 **Available on [Amazon](https://www.amazon.com/dp/B0CJYXYY4R/ref=mp_s_a_1_1?crid=1GA5IVL2UHVLN&keywords=dear+devoted%2C+nessie+loughty&qid=1695887745&sprefix=dear+devoted%2C+nessie+loughty%2Caps%2C210&sr=8-1) | [Apple books](https://books.apple.com/ch/book/dear-devoted/id6467892582?l=en-GB) | [Google books](https://books.google.com/books/about/Dear_Devoted.html?hl=de&id=dIfZEAAAQBAJ) | [Weltbild](https://www.weltbild.ch/artikel/ebook/dear-devoted_42326060-1)**
-\
-\
